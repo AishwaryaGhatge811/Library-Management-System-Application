@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <style>
+        body{
+            margin-top:1%;
+             background-color:#FFF8DC;
+        }
+    </style>
+    <title>List Of Books in Library</title>
+</head>
+<body>
+<center>
+  <table style="width:50%;" class="table table-bordered  table-hover ">
+    <thead class="thead-dark">
+      <tr>
+            <th>Book Name</th>
+            <th> Author</th>
+            <th>Type</th>
+            <th> Price</th>
+      </tr>
+    </thead>
+      {% for objects in Books %}
+      <tr>
+          <h3>
+              <td>{{objects.book_name}}</td>
+              <td>{{objects.book_author}}</td>
+              <td>{{objects.book_type}}</td>
+              <td>{{objects.book_price}}</td>
+        </h3>
+      </tr>
+        {% endfor %}
+
+  </table>
+</center>
+</body>
+</html>

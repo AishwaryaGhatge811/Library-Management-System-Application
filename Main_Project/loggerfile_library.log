@@ -1,0 +1,26 @@
+2020-04-10 15:04:57,677:  Internal Server Error: /:  ERROR: log_response :django.request
+Traceback (most recent call last):
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\Main_Project\library_app\views.py", line 34, in login_page
+    return render(request, 'library_app/login_page.html')
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: library_app/login_page.html
+2020-04-10 15:04:58,835:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-04-10 15:06:43,229:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\Main_Project\library_app\views.py changed, reloading.:  INFO: trigger_reload :django.utils.autoreload
+2020-04-10 15:06:43,230:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-04-10 15:07:06,810:  User is present into the system:  DEBUG: login_page :root
+2020-04-11 19:14:06,796:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-04-14 14:27:33,352:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-04-14 16:36:58,796:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\Main_Project\calculator\models.py changed, reloading.:  INFO: trigger_reload :django.utils.autoreload
+2020-04-14 16:36:58,973:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-04-14 16:42:33,723:  User is present into the system:  DEBUG: login_page :root

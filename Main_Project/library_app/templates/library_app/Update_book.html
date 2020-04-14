@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <title>Update Book</title>
+
+    <style>
+        body{border-style:solid;
+            border-color:black;
+            margin-right:25%;
+            margin-left:26%;
+            margin-top:5%;
+             background-color:#FFF8DC;
+        }
+    </style>
+</head>
+<body>
+<center>
+
+     <form method="post" action="update_book">
+        {% csrf_token %}
+        <h1 style="color:blue"> Update Book</h1>
+        Enter Book Name <br>
+        <input type="text" name="book_name"><br><br>
+
+         Select what You want to Update:<br>
+         Book Name
+         <input type="radio" name="book" value="bookname"><br><br>
+         Book Author
+        <input type="radio" name="book" value="bookauthor"><br><br>
+         Book Type
+        <input type="radio" name="book" value="booktype"><br><br>
+         Book Price
+        <input type="radio" name="book" value="bookprice"><br><br>
+
+         <input type="text" name="info" placeholder="Update here"><br><br>
+
+         <button type="submit" name="update"  value="UPDATE BOOK" class="btn btn-primary btn-lg">Update</button><br><br>
+    </form>
+    {% for message in messages %}
+    <p>{{message}}</p>
+    {% endfor %}
+</center>
+</body>
+</html>

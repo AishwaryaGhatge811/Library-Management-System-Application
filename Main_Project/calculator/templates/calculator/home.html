@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Home</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <style>
+        body{border-style:solid;
+            border-color:blue;
+            margin-right:25%;
+            margin-left:26%;
+            margin-top:5%;
+        }
+    </style>
+
+</head>
+<body>
+<center>
+    <br>
+<h2 style="color:blue">Web Based Calculator using Django</h2><br>
+
+<form method="POST">
+    {% csrf_token %}
+    Enter First Number :- <input type="number" name="num1"><br><br>
+    Enter second Number :- <input type="number" name="num2"><br><br>
+
+    <button type="submit" formaction="addition" class="btn btn-outline-primary">Addition</button>
+
+    <button type="submit" formaction="subtraction" class="btn btn-outline-primary">Subtraction</button>
+
+    <button type="submit" formaction="multiplication" class="btn btn-outline-primary">Multiplication</button>
+
+    <button type="submit" formaction="division" class="btn btn-outline-primary">Division</button>
+<br><br>
+</form>
+</center>
+</body>
+</html>

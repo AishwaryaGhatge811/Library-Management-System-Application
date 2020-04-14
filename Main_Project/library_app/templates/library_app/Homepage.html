@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <style>
+        h1{font-size:40px;
+            color:red;
+            margin-right:25%;
+            margin-left:26%;
+            margin-top:3%;
+        }
+        body{
+            background-color:#FFF8DC;
+            margin-top:2%;
+        }
+        #one{ margin-left:88%;
+                margin-top:-85%;
+        }
+
+    </style>
+
+    <title>Home Page </title>
+</head>
+
+
+<body>
+<center>
+{% block header %}
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/static/book2.jpg" alt="books_pict1">
+    </div>
+    <div class="carousel-item">
+      <img src="/static/book1.jpg" alt="books_pict2">
+    </div>
+    <div class="carousel-item">
+      <img src="/static/books2.jpg" alt="books_pict3">
+    </div>
+     <div class="carousel-item">
+      <img src="/static/books3.jpeg" alt="books_pict4">
+    </div>
+     <div class="carousel-item">
+      <img src="/static/books4.jpg" alt="books_pict5">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
+{% endblock %}
+
+        <form>
+            {% csrf_token %}
+            <h1 style="color:red">Welcome to the Online Library System</h1><br><br>
+             <button type="submit" formaction="add_book" class="btn btn-outline-success btn-lg">Add Book</button>
+             <button type="submit" formaction="update_book" class="btn btn-outline-primary btn-lg">Update Book</button>
+             <button type="submit" formaction="search_book" class="btn btn-outline-warning btn-lg">Search Book</button>
+             <button type="submit" formaction="view_book" class="btn btn-outline-info btn-lg">List of Book</button>
+             <button type="submit" formaction="delete_book" class="btn btn-outline-danger btn-lg">Delete Book</button>
+            <br><br>
+             <button id="one" type="submit" formaction="log_out" class="btn btn-danger btn-lg" >Log Out</button>
+        </form>
+{% for message in messages %}
+    {{message}}
+    {% endfor %}
+</center>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>

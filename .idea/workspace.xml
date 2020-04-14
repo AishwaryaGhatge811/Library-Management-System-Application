@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec7f62e-95be-4653-9dca-71221d2803c3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DjangoAssignment" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main_Project/loggerfile_library.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main_Project/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="7" column="65" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assignment1</find>
+      <find>assi</find>
+      <find>library</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\Main_Project</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assignment1/calcultor/Templates/Result.html" />
+        <option value="$PROJECT_DIR$/assignment1/calcultor/urls.py" />
+        <option value="$PROJECT_DIR$/assignment1/calcultor/Templates/Home_page.html" />
+        <option value="$PROJECT_DIR$/assignment1/calcultor/Templates/subtraction.html" />
+        <option value="$PROJECT_DIR$/assignment1/calcultor/Templates/Multiplication.html" />
+        <option value="$PROJECT_DIR$/assignment1/calcultor/views.py" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/multiplication.html" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/urls.py" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/views.py" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/calculator/addition.html" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/calculator/subtraction.html" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/calculator/multiplication.html" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/calculator/division.html" />
+        <option value="$PROJECT_DIR$/assignment1/calculator/templates/calculator/home.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/models.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/admin.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/add_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/urls.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Register.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Search_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Add_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Update_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Delete_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/login_page.html" />
+        <option value="$PROJECT_DIR$/assignment1/assignment1/settings.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/View_book.html" />
+        <option value="$PROJECT_DIR$/assignment1/assignment1/urls.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/views.py" />
+        <option value="$PROJECT_DIR$/assignment1/library/templates/library/Homepage.html" />
+        <option value="$PROJECT_DIR$/Main_Project/manage.py" />
+        <option value="$PROJECT_DIR$/Main_Project/library_app/views.py" />
+        <option value="$PROJECT_DIR$/Main_Project/Main_project/settings.py" />
+        <option value="$PROJECT_DIR$/Main_Project/Main_project/urls.py" />
+        <option value="$PROJECT_DIR$/Main_Project/Main_project/wsgi.py" />
+        <option value="$PROJECT_DIR$/Main_Project/Main_project/asgi.py" />
+        <option value="$PROJECT_DIR$/Main_Project/library_app/apps.py" />
+        <option value="$PROJECT_DIR$/Main_Project/library_app/migrations/0002_books_book_price.py" />
+        <option value="$PROJECT_DIR$/Main_Project/loggerfile_library.log" />
+        <option value="$PROJECT_DIR$/Main_Project/Main_Project/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DjangoAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="Main_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/library (1)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec7f62e-95be-4653-9dca-71221d2803c3" name="Default Changelist" comment="" />
+      <created>1580377916121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580377916121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19618745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.2358156" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.2109929" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Favorites" order="11" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment1/calcultor/Templates/Home_page.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calcultor/Templates/subtraction.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calcultor/Templates/Multiplication.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calcultor/views.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/multiplication.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/calculator/multiplication.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/calculator/division.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/calculator/subtraction.html" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/migrations/migration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/library/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/migrations/0002_books_book_price.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/manage.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/urls.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/admin.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/calculator/home.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/templates/calculator/addition.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/calculator/views.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/urls.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/login_page.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Register.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="649" selection-start-line="649" selection-end-line="649" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/assignment1/urls.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/static/book11.jpg" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/models.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/views.py" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/View_book.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Add_book.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Homepage.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Update_book.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Search_book.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/library/templates/library/Delete_book.html" />
+    <entry file="file://$PROJECT_DIR$/assignment1/assignment1/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/management/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="327" column="32" selection-start-line="327" selection-start-column="32" selection-end-line="327" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/Main_Project/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/Main_Project/asgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/Main_Project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/migrations/0002_books_book_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/templates/library_app/Add_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/library_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="163" column="43" selection-start-line="163" selection-start-column="43" selection-end-line="163" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/Main_Project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/Main_Project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/loggerfile_library.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_Project/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

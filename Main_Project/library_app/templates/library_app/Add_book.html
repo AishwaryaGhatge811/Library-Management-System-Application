@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+          crossorigin="anonymous">
+    <title>Add Books</title>
+
+    <style>
+        body{border-style:solid;
+            border-color:black;
+            margin-right:25%;
+            margin-left:26%;
+            margin-top:5%;
+             background-color:#FFF8DC;
+        }
+    </style>
+</head>
+<body>
+<center>
+
+     <form method="post" action="add_book">
+        {% csrf_token %}
+        <h1 style="color:green"> Add/Insert Book</h1>
+        Enter Book Name <br>
+        <input type="text" name="book_name"><br><br>
+        Enter Book Author<br>
+        <input type="text" name="book_author"><br><br>
+         Enter Book Type<br>
+        <input type="text" name="book_type"><br><br>
+         Enter Book Price<br>
+        <input type="number" name="book_price"><br><br>
+        <button type="submit" name="add"  value="ADD BOOK" class="btn btn-success btn-lg">Add Book</button><br><br>
+    </form>
+
+</center>
+</body>
+</html>
