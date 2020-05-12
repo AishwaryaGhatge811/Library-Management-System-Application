@@ -57,7 +57,7 @@ def add_book(request):
         return render(request, 'library_app/Homepage.html')
 
     else:
-        return render(request, 'library_app/add_book.html')
+        return render(request, 'library_app/Add_book.html')
 
 def update_book(request):
     if request.method == 'POST':
