@@ -17,7 +17,7 @@ IPy==0.75
 javapackages==1.0.0
 kitchen==1.1.1
 langtable==0.0.31
-lxml==3.2.1
+lxml==4.6.2
 pathlib2==2.3.5
 perf==0.1
 policycoreutils-default-encoding==0.1
